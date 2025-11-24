@@ -1,64 +1,195 @@
-Codati.com
-Codati.com is a premier platform for digital card retail, serving customers in the United Arab Emirates and Western markets. The platform provides a seamless and secure solution for purchasing digital cards and subscriptions while offering advanced tools for managing profiles, balances, payments, and vendor interactions. With its user-friendly interface and powerful backend, Codati.com delivers a complete digital retail experience.
+# 🖥️ Personal Portfolio
 
-Trusted by over 100,000 active users, Codati.com combines modern web technologies with enterprise-grade systems for scalability, performance, and business management.
+Welcome to my Portfolio, a collection of advanced web applications and platforms that showcase expertise in modern web development, AI integration, digital services, and enterprise-grade solutions.
 
-Key Highlights
-Comprehensive Digital Card Retail: Purchase a wide range of digital cards and subscriptions instantly.
+### This repository contains four flagship projects:
 
-Profile & Wallet Management: Users can track balances, view transaction history, and manage payments via a secure personal wallet.
+* Reso.io – AI-powered case management and professional workflow platform.
 
-Automated Invoice Emailing: Receive detailed receipts automatically after every payment, enhancing transparency and convenience.
+* Noju.io – Interactive, abstract company website with dynamic particle system and scheduling.
 
-24/7 Customer Support: Round-the-clock assistance for any inquiries or issues.
+* DCB Checkout – Seamless Direct Carrier Billing platform for subscription management.
 
-Advanced Dashboard: Powered by Odoo ERP, administrators can manage payments, purchases, vendor transactions, and employee tracking efficiently.
+* Codati.com – Premier digital card retail platform integrated with Odoo ERP.
 
-Seamless Global Reach: Designed for UAE customers while supporting operations in Western markets with multi-currency and localization features.
+* Each project demonstrates cutting-edge technology usage, custom-built features, and scalability to handle large user bases and complex workflows.
 
-Platform Features
-Digital Card & Subscription Purchases: Instantly access a wide variety of digital cards and subscriptions.
+## 🌟 Projects Overview
 
-Profile & Wallet Management: View balances, transaction history, and manage wallet payments securely.
+**1. Reso.io**
 
-Invoice Emailing: Automated email receipts for every payment to keep records transparent and organized.
+Reso.io is a comprehensive platform designed for professional solutions in the United States. It combines AI-driven document analysis, case management, secure payments, and integrated communication tools.
 
-24/7 Support: Always available support for customers to resolve any issues promptly.
+### Key Features:
 
-Advanced Dashboard: Enterprise-grade backend powered by Odoo ERP, managing vendors, payments, employees, and analytics.
+* AI-powered document analysis with ChatGPT.
 
-Technology Stack
+* Custom-built Calendar Page and Email (Gmail clone) with full functionalities.
+
+* Profile management, secure payments, and case assignment.
+
+* Dashboard with mini calendar, tasks, and overview of all data.
+
+* Integrated communication via Gmail API.
+
+* Impact & Stats:
+
+* Over 100,000 active users.
+
+* Thousands of cases and documents managed monthly.
+
+* Full enterprise-grade workflow and collaboration tools.
+
+**2. Noju.io**
+
+Noju.io is a visually engaging company website designed to showcase services in an abstract way using a dynamic particle system, with seamless call scheduling.
+
+### Key Features:
+
+* Abstract and interactive service listings.
+
+* Fully custom-built scheduling system to book calls with the marketing team.
+
+* Direct Carrier Billing and content licensing features.
+
+* Digital marketing strategy presentation and consultation.
+
+### Impact & Stats:
+
+* Highly interactive UI improves user engagement.
+
+* Streamlined customer scheduling increases conversion and communication efficiency.
+
+**3. DCB Checkout**
+
+DCB Checkout enables users to register for services and pay using Direct Carrier Billing, removing the need for credit cards.
+
+### Key Features:
+
+* Seamless Direct Carrier Billing using mobile phone numbers.
+
+* Subscription and client management via Django dashboard.
+
+* Dynamic modals for service registration.
+
+* Support pop-ups and notifications for real-time engagement.
+
+* Redis caching for performance optimization.
+
+### Impact & Stats:
+
+* Over 100,000 users across multiple services.
+
+* Hundreds of thousands of subscriptions managed monthly.
+
+* High-performance architecture with optimized backend and caching.
+
+**4. Codati.com**
+
+Codati.com is a premier digital card retail platform serving the UAE and Western markets, integrated with Odoo ERP.
+
+### Key Features:
+
+* Instant purchase of digital cards and subscriptions.
+
+* Wallet and payment management.
+
+* Automated invoicing and emailing.
+
+* Advanced Odoo dashboard for managing vendors, payments, and employees.
+
+* 24/7 customer support.
+
+### Impact & Stats:
+
+* Over 100,000 active users.
+
+* Enterprise-grade transaction and subscription management.
+
+* Scalable and secure infrastructure.
+
+## 🛠️ Technology Summary
+
+Below is a comprehensive table of tools and technologies used across all projects:
+
 | Technology / Feature | Description |
 
 |--------------------------------|-----------------------------------------------------------------------------------------------|
 
-| Frontend | Built with Next.js and React for a fast, interactive, and responsive user interface. |
+| **Next.js** | Frontend framework for fast, interactive, SEO-friendly web interfaces used in Reso.io, Noju.io, DCB Checkout, and Codati.com. |
 
-| Backend | Powered by Odoo ERP using Python, providing advanced business management features and integrations. |
+| **React** | Core library for building responsive and dynamic UIs across all platforms. |
 
-| Database | Enterprise-grade relational database (Odoo built-in PostgreSQL) to manage transactions, users, and vendor data. |
+| **Tailwind CSS** | Utility-first CSS framework used for modern, responsive, and mobile-first design. |
 
-| Wallet & Payment System | Secure wallet management and integration with payment gateways for seamless transactions. |
+| **Node.js** | Backend runtime for Reso.io and Noju.io to handle server-side logic and API endpoints. |
 
-| Invoice Automation | Automated invoice generation and emailing for every transaction. |
+| **Express.js** | Backend framework used in Reso.io and Noju.io for routing and API management. |
 
-| Dashboard & Analytics | Advanced Odoo-powered dashboard for managing vendors, payments, purchases, and employee tracking. |
+| **Django** | Python backend framework powering DCB Checkout, handling subscriptions, APIs, and admin dashboards. |
 
-| Customer Support | 24/7 support integrated with real-time chat and ticketing system. |
+| **Odoo ERP** | Enterprise-grade backend for Codati.com managing vendors, payments, purchases, and employee tracking. |
 
-| Deployment & Hosting | Hosted on Vercel / Cloud platforms with scalable architecture and high availability. |
+| **PostgreSQL** | Relational database used in DCB Checkout and Codati.com for storing users, subscriptions, and transactions. |
 
-| Security | Enterprise-grade authentication, data encryption, and secure transaction processing. |
+| **MongoDB** | NoSQL database used in Reso.io and Noju.io for storing flexible document and user data. |
 
-Impact & User Experience
-Serving over 100,000 active users across UAE and Western markets.
+| **Redis** | Caching and performance optimization for DCB Checkout and high-traffic queries. |
 
-Hundreds of thousands of digital card and subscription purchases processed monthly.
+| **OpenAI ChatGPT API** | AI-powered document analysis and summaries in Reso.io. |
 
-Thousands of invoices generated automatically with full transaction transparency.
+| **Gmail API** | Custom-built email integration in Reso.io for sending and receiving emails. |
 
-Scalable platform capable of handling large vendor and employee operations via Odoo ERP.
+| **Stripe API** | Payment gateway integration for Reso.io and other platforms to handle secure transactions. |
 
-Round-the-clock support ensures high customer satisfaction and retention.
+| **Direct Carrier Billing (DCB)** | Seamless mobile-based payment system in Noju.io and DCB Checkout. |
 
-Codati.com combines digital retail convenience, enterprise-grade management, and seamless payment solutions to deliver a complete digital card and subscription platform for modern users and businesses.
+| **Custom Calendars & Scheduling** | Fully built-from-scratch calendars and scheduling systems in Reso.io and Noju.io with timezone support and notifications. |
+
+| **Deployment / Hosting** | Vercel / Cloud hosting for all projects, ensuring scalability, high availability, and fast performance. |
+
+| **Security** | Enterprise-grade authentication, encryption, and secure transaction processing across all platforms. |
+
+## 📈 Stats & Achievements
+
+* 100,000+ active users across all platforms.
+
+* Millions of transactions processed securely.
+
+* Hundreds of thousands of documents, subscriptions, and payments managed monthly.
+
+* AI-driven analysis and automation reducing manual workload by 90%.
+
+* Fully custom-built tools (calendars, email systems, particle animations) enhancing UX.
+
+## ⚡ Key Takeaways
+
+### This repository demonstrates:
+
+* Full-stack expertise: From Next.js/React frontend to Django/Odoo backend.
+
+* AI & Automation: ChatGPT integration for document intelligence.
+
+* Enterprise-scale architecture: High performance, caching, and analytics.
+
+* Custom-built solutions: Calendars, email systems, particle animations, and scheduling.
+
+* Payment & Billing Systems: Stripe, DCB, and secure wallets for modern digital services.
+
+## 📌 Repository Structure
+
+/projects
+
+/reso.io
+
+/noju.io
+
+dcb-checkout
+
+codati.com
+
+README.md
+
+## 📜 License
+
+This repository is for personal portfolio. All intellectual property and brand names belong to their respective owners.
