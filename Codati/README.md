@@ -70,10 +70,10 @@ Trusted by over 100,000 active users, Codati.com combines modern web technologie
 
 ### Images
 
-![This is an alt text.](/Codati/Home.png")
-![This is an alt text.](/Codati/Signin.png")
-![This is an alt text.](/Codati/Payment.png")
-![This is an alt text.](/Codati/Add-to-cart.png")
-![This is an alt text.](/Codati/Cards.png")
-![This is an alt text.](/Codati/Choose-card.png")
-![This is an alt text.](/Codati/Contact.png")
+![This is an alt text.](/Codati/Home.png)
+![This is an alt text.](/Codati/Signin.png)
+![This is an alt text.](/Codati/Payment.png)
+![This is an alt text.](/Codati/Add-to-cart.png)
+![This is an alt text.](/Codati/Cards.png)
+![This is an alt text.](/Codati/Choose-card.png)
+![This is an alt text.](/Codati/Contact.png)
