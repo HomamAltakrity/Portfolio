@@ -32,27 +32,18 @@ Trusted by over 100,000 active users, Codati.com combines modern web technologie
 
 ### Technology Stack
 
-| Technology / Feature | Description |
-
+| Technology / Feature           | Description                                                                                   |
 |--------------------------------|-----------------------------------------------------------------------------------------------|
+| **Frontend**                   | Built with **Next.js** and **React** for a fast, interactive, and responsive user interface. |
+| **Backend**                    | Powered by **Odoo ERP** using **Python**, providing advanced business management features and integrations. |
+| **Database**                   | Enterprise-grade relational database (**Odoo built-in PostgreSQL**) to manage transactions, users, and vendor data. |
+| **Wallet & Payment System**    | Secure wallet management and integration with payment gateways for seamless transactions. |
+| **Invoice Automation**         | Automated invoice generation and emailing for every transaction. |
+| **Dashboard & Analytics**      | Advanced Odoo-powered dashboard for managing vendors, payments, purchases, and employee tracking. |
+| **Customer Support**           | 24/7 support integrated with real-time chat and ticketing system. |
+| **Deployment & Hosting**       | Hosted on **Vercel / Cloud platforms** with scalable architecture and high availability. |
+| **Security**                   | Enterprise-grade authentication, data encryption, and secure transaction processing. |
 
-| **Frontend** | Built with **Next.js** and **React** for a fast, interactive, and responsive user interface. |
-
-| **Backend** | Powered by **Odoo ERP** using **Python**, providing advanced business management features and integrations. |
-
-| **Database** | Enterprise-grade relational database (**Odoo built-in PostgreSQL**) to manage transactions, users, and vendor data. |
-
-| **Wallet & Payment System** | Secure wallet management and integration with payment gateways for seamless transactions. |
-
-| **Invoice Automation** | Automated invoice generation and emailing for every transaction. |
-
-| **Dashboard & Analytics** | Advanced Odoo-powered dashboard for managing vendors, payments, purchases, and employee tracking. |
-
-| **Customer Support** | 24/7 support integrated with real-time chat and ticketing system. |
-
-| **Deployment & Hosting** | Hosted on **Vercel / Cloud platforms** with scalable architecture and high availability. |
-
-| **Security** | Enterprise-grade authentication, data encryption, and secure transaction processing. |
 
 ### Impact & User Experience
 
@@ -70,10 +61,10 @@ Trusted by over 100,000 active users, Codati.com combines modern web technologie
 
 ### Images
 
-![This is an alt text.](/Codati/Home.png)
-![This is an alt text.](/Codati/Signin.png)
-![This is an alt text.](/Codati/Payment.png)
-![This is an alt text.](/Codati/Add-to-cart.png)
-![This is an alt text.](/Codati/Cards.png)
-![This is an alt text.](/Codati/Choose-card.png)
-![This is an alt text.](/Codati/Contact.png)
+![Home](/Codati/Home.png)
+![Signin](/Codati/Signin.png)
+![Payment](/Codati/Payment.png)
+![Add-to-cart](/Codati/Add-to-cart.png)
+![TCards](/Codati/Cards.png)
+![Choose-card](/Codati/Choose-card.png)
+![Contact](/Codati/Contact.png)
