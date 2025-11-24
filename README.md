@@ -161,17 +161,18 @@ Below is a comprehensive table of tools and technologies used across all project
 
 ## 📌 Repository Structure
 
-/projects
+> /projects
 
-/reso.io
+> README.md
 
-/noju.io
+>> /reso.io
 
-dcb-checkout
+>> /noju.io
 
-codati.com
+>> dcb-checkout
 
-README.md
+>> codati.com
+
 
 ## 📜 License
 
