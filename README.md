@@ -1,168 +1,183 @@
-🖥️ Personal Portfolio
+# 🖥️ Personal Portfolio
+
 Welcome to my Portfolio, a collection of advanced web applications and platforms that showcase expertise in modern web development, AI integration, digital services, and enterprise-grade solutions.
 
-This repository contains four flagship projects:
-Reso.io – AI-powered case management and professional workflow platform.
+### This repository contains four flagship projects:
 
-Noju.io – Interactive, abstract company website with dynamic particle system and scheduling.
+* Reso.io – AI-powered case management and professional workflow platform.
 
-DCB Checkout – Seamless Direct Carrier Billing platform for subscription management.
+* Noju.io – Interactive, abstract company website with dynamic particle system and scheduling.
 
-Codati.com – Premier digital card retail platform integrated with Odoo ERP.
+* DCB Checkout – Seamless Direct Carrier Billing platform for subscription management.
 
-Each project demonstrates cutting-edge technology usage, custom-built features, and scalability to handle large user bases and complex workflows.
+* Codati.com – Premier digital card retail platform integrated with Odoo ERP.
 
-🌟 Projects Overview
-1. Reso.io
+* Each project demonstrates cutting-edge technology usage, custom-built features, and scalability to handle large user bases and complex workflows.
+
+## 🌟 Projects Overview
+
+**1. Reso.io**
 
 Reso.io is a comprehensive platform designed for professional solutions in the United States. It combines AI-driven document analysis, case management, secure payments, and integrated communication tools.
 
-Key Features:
-AI-powered document analysis with ChatGPT.
+### Key Features:
 
-Custom-built Calendar Page and Email (Gmail clone) with full functionalities.
+* AI-powered document analysis with ChatGPT.
 
-Profile management, secure payments, and case assignment.
+* Custom-built Calendar Page and Email (Gmail clone) with full functionalities.
 
-Dashboard with mini calendar, tasks, and overview of all data.
+* Profile management, secure payments, and case assignment.
 
-Integrated communication via Gmail API.
+* Dashboard with mini calendar, tasks, and overview of all data.
 
-Impact & Stats:
+* Integrated communication via Gmail API.
 
-Over 100,000 active users.
+* Impact & Stats:
 
-Thousands of cases and documents managed monthly.
+* Over 100,000 active users.
 
-Full enterprise-grade workflow and collaboration tools.
+* Thousands of cases and documents managed monthly.
 
-2. Noju.io
+* Full enterprise-grade workflow and collaboration tools.
+
+**2. Noju.io**
 
 Noju.io is a visually engaging company website designed to showcase services in an abstract way using a dynamic particle system, with seamless call scheduling.
 
-Key Features:
-Abstract and interactive service listings.
+### Key Features:
 
-Fully custom-built scheduling system to book calls with the marketing team.
+* Abstract and interactive service listings.
 
-Direct Carrier Billing and content licensing features.
+* Fully custom-built scheduling system to book calls with the marketing team.
 
-Digital marketing strategy presentation and consultation.
+* Direct Carrier Billing and content licensing features.
 
-Impact & Stats:
-Highly interactive UI improves user engagement.
+* Digital marketing strategy presentation and consultation.
 
-Streamlined customer scheduling increases conversion and communication efficiency.
+### Impact & Stats:
 
-3. DCB Checkout
+* Highly interactive UI improves user engagement.
+
+* Streamlined customer scheduling increases conversion and communication efficiency.
+
+**3. DCB Checkout**
 
 DCB Checkout enables users to register for services and pay using Direct Carrier Billing, removing the need for credit cards.
 
-Key Features:
-Seamless Direct Carrier Billing using mobile phone numbers.
+### Key Features:
 
-Subscription and client management via Django dashboard.
+* Seamless Direct Carrier Billing using mobile phone numbers.
 
-Dynamic modals for service registration.
+* Subscription and client management via Django dashboard.
 
-Support pop-ups and notifications for real-time engagement.
+* Dynamic modals for service registration.
 
-Redis caching for performance optimization.
+* Support pop-ups and notifications for real-time engagement.
 
-Impact & Stats:
-Over 100,000 users across multiple services.
+* Redis caching for performance optimization.
 
-Hundreds of thousands of subscriptions managed monthly.
+### Impact & Stats:
 
-High-performance architecture with optimized backend and caching.
+* Over 100,000 users across multiple services.
 
-4. Codati.com
+* Hundreds of thousands of subscriptions managed monthly.
+
+* High-performance architecture with optimized backend and caching.
+
+**4. Codati.com**
 
 Codati.com is a premier digital card retail platform serving the UAE and Western markets, integrated with Odoo ERP.
 
-Key Features:
-Instant purchase of digital cards and subscriptions.
+### Key Features:
 
-Wallet and payment management.
+* Instant purchase of digital cards and subscriptions.
 
-Automated invoicing and emailing.
+* Wallet and payment management.
 
-Advanced Odoo dashboard for managing vendors, payments, and employees.
+* Automated invoicing and emailing.
 
-24/7 customer support.
+* Advanced Odoo dashboard for managing vendors, payments, and employees.
 
-Impact & Stats:
-Over 100,000 active users.
+* 24/7 customer support.
 
-Enterprise-grade transaction and subscription management.
+### Impact & Stats:
 
-Scalable and secure infrastructure.
+* Over 100,000 active users.
 
-🛠️ Technology Summary
+* Enterprise-grade transaction and subscription management.
+
+* Scalable and secure infrastructure.
+
+## 🛠️ Technology Summary
+
 Below is a comprehensive table of tools and technologies used across all projects:
 
 | Technology / Feature | Description |
 
 |--------------------------------|-----------------------------------------------------------------------------------------------|
 
-| Next.js | Frontend framework for fast, interactive, SEO-friendly web interfaces used in Reso.io, Noju.io, DCB Checkout, and Codati.com. |
+| **Next.js** | Frontend framework for fast, interactive, SEO-friendly web interfaces used in Reso.io, Noju.io, DCB Checkout, and Codati.com. |
 
-| React | Core library for building responsive and dynamic UIs across all platforms. |
+| **React** | Core library for building responsive and dynamic UIs across all platforms. |
 
-| Tailwind CSS | Utility-first CSS framework used for modern, responsive, and mobile-first design. |
+| **Tailwind CSS** | Utility-first CSS framework used for modern, responsive, and mobile-first design. |
 
-| Node.js | Backend runtime for Reso.io and Noju.io to handle server-side logic and API endpoints. |
+| **Node.js** | Backend runtime for Reso.io and Noju.io to handle server-side logic and API endpoints. |
 
-| Express.js | Backend framework used in Reso.io and Noju.io for routing and API management. |
+| **Express.js** | Backend framework used in Reso.io and Noju.io for routing and API management. |
 
-| Django | Python backend framework powering DCB Checkout, handling subscriptions, APIs, and admin dashboards. |
+| **Django** | Python backend framework powering DCB Checkout, handling subscriptions, APIs, and admin dashboards. |
 
-| Odoo ERP | Enterprise-grade backend for Codati.com managing vendors, payments, purchases, and employee tracking. |
+| **Odoo ERP** | Enterprise-grade backend for Codati.com managing vendors, payments, purchases, and employee tracking. |
 
-| PostgreSQL | Relational database used in DCB Checkout and Codati.com for storing users, subscriptions, and transactions. |
+| **PostgreSQL** | Relational database used in DCB Checkout and Codati.com for storing users, subscriptions, and transactions. |
 
-| MongoDB | NoSQL database used in Reso.io and Noju.io for storing flexible document and user data. |
+| **MongoDB** | NoSQL database used in Reso.io and Noju.io for storing flexible document and user data. |
 
-| Redis | Caching and performance optimization for DCB Checkout and high-traffic queries. |
+| **Redis** | Caching and performance optimization for DCB Checkout and high-traffic queries. |
 
-| OpenAI ChatGPT API | AI-powered document analysis and summaries in Reso.io. |
+| **OpenAI ChatGPT API** | AI-powered document analysis and summaries in Reso.io. |
 
-| Gmail API | Custom-built email integration in Reso.io for sending and receiving emails. |
+| **Gmail API** | Custom-built email integration in Reso.io for sending and receiving emails. |
 
-| Stripe API | Payment gateway integration for Reso.io and other platforms to handle secure transactions. |
+| **Stripe API** | Payment gateway integration for Reso.io and other platforms to handle secure transactions. |
 
-| Direct Carrier Billing (DCB) | Seamless mobile-based payment system in Noju.io and DCB Checkout. |
+| **Direct Carrier Billing (DCB)** | Seamless mobile-based payment system in Noju.io and DCB Checkout. |
 
-| Custom Calendars & Scheduling | Fully built-from-scratch calendars and scheduling systems in Reso.io and Noju.io with timezone support and notifications. |
+| **Custom Calendars & Scheduling** | Fully built-from-scratch calendars and scheduling systems in Reso.io and Noju.io with timezone support and notifications. |
 
-| Deployment / Hosting | Vercel / Cloud hosting for all projects, ensuring scalability, high availability, and fast performance. |
+| **Deployment / Hosting** | Vercel / Cloud hosting for all projects, ensuring scalability, high availability, and fast performance. |
 
-| Security | Enterprise-grade authentication, encryption, and secure transaction processing across all platforms. |
+| **Security** | Enterprise-grade authentication, encryption, and secure transaction processing across all platforms. |
 
-📈 Stats & Achievements
-100,000+ active users across all platforms.
+## 📈 Stats & Achievements
 
-Millions of transactions processed securely.
+* 100,000+ active users across all platforms.
 
-Hundreds of thousands of documents, subscriptions, and payments managed monthly.
+* Millions of transactions processed securely.
 
-AI-driven analysis and automation reducing manual workload by 90%.
+* Hundreds of thousands of documents, subscriptions, and payments managed monthly.
 
-Fully custom-built tools (calendars, email systems, particle animations) enhancing UX.
+* AI-driven analysis and automation reducing manual workload by 90%.
 
-⚡ Key Takeaways
-This repository demonstrates:
-Full-stack expertise: From Next.js/React frontend to Django/Odoo backend.
+* Fully custom-built tools (calendars, email systems, particle animations) enhancing UX.
 
-AI & Automation: ChatGPT integration for document intelligence.
+## ⚡ Key Takeaways
 
-Enterprise-scale architecture: High performance, caching, and analytics.
+### This repository demonstrates:
 
-Custom-built solutions: Calendars, email systems, particle animations, and scheduling.
+* Full-stack expertise: From Next.js/React frontend to Django/Odoo backend.
 
-Payment & Billing Systems: Stripe, DCB, and secure wallets for modern digital services.
+* AI & Automation: ChatGPT integration for document intelligence.
 
-📌 Repository Structure
+* Enterprise-scale architecture: High performance, caching, and analytics.
+
+* Custom-built solutions: Calendars, email systems, particle animations, and scheduling.
+
+* Payment & Billing Systems: Stripe, DCB, and secure wallets for modern digital services.
+
+## 📌 Repository Structure
+
 /projects
 
 /reso.io
@@ -175,5 +190,6 @@ codati.com
 
 README.md
 
-📜 License
+## 📜 License
+
 This repository is for personal portfolio. All intellectual property and brand names belong to their respective owners.
