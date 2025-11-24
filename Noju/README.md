@@ -65,8 +65,8 @@ Noju.io is a modern, visually engaging company website designed to present servi
   
 ### Images
 
-![This is an alt text.](/Noju/About.png")
-![This is an alt text.](/Noju/Home.png")
-![This is an alt text.](/Noju/Popup.png")
-![This is an alt text.](/Noju/Services.png")
+![This is an alt text.](/Noju/About.png)
+![This is an alt text.](/Noju/Home.png)
+![This is an alt text.](/Noju/Popup.png)
+![This is an alt text.](/Noju/Services.png)
 
