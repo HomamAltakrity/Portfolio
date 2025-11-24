@@ -69,27 +69,16 @@ Reso.io is a state-of-the-art platform designed to deliver comprehensive profess
 ### Technology Stack
 
 
-
 | Technology / Feature           | Description                                                                                   |
-
 |--------------------------------|-----------------------------------------------------------------------------------------------|
-
-| \*\*Frontend\*\*                   | Built with \*\*Next.js\*\* and \*\*React\*\* for a fast, dynamic, and SEO-friendly user interface. Uses \*\*Tailwind CSS\*\* for responsive and modern styling. |
-
-| \*\*Backend\*\*                    | \*\*Node.js\*\* and \*\*Express.js\*\* power the backend, handling API requests, authentication, and server-side logic efficiently. |
-
-| \*\*Database\*\*                   | \*\*MongoDB\*\* stores all user, case, document, and payment data with flexible and scalable NoSQL architecture. |
-
-| \*\*Authentication\*\*             | \*\*Google OAuth\*\* for seamless login and \*\*JWT\*\* for secure session management. |
-
-| \*\*AI Integration\*\*             | \*\*OpenAI ChatGPT API\*\* is used for intelligent document analysis, summaries, and AI-driven decision support. |
-
-| \*\*Payments\*\*                    | \*\*Stripe API\*\* enables secure, reliable, and flexible payment processing. |
-
-| \*\*Email \& Calendar\*\*           | Fully custom-built \*\*Email (Gmail clone)\*\* and \*\*Calendar\*\* pages with event creation, task management, timezone-aware scheduling, notifications, and direct Gmail API integration. |
-
-| \*\*Deployment \& Hosting\*\*        | Hosted on \*\*Vercel\*\* / Cloud services for high availability, scalability, and fast performance. |
-
+| **Frontend**                   | Built with **Next.js** and **React** for a fast, dynamic, and SEO-friendly user interface. Uses **Tailwind CSS** for responsive and modern styling. |
+| **Backend**                    | **Node.js** and **Express.js** power the backend, handling API requests, authentication, and server-side logic efficiently. |
+| **Database**                   | **MongoDB** stores all user, case, document, and payment data with flexible and scalable NoSQL architecture. |
+| **Authentication**             | **Google OAuth** for seamless login and **JWT** for secure session management. |
+| **AI Integration**             | **OpenAI ChatGPT API** is used for intelligent document analysis, summaries, and AI-driven decision support. |
+| **Payments**                   | **Stripe API** enables secure, reliable, and flexible payment processing. |
+| **Email & Calendar**           | Fully custom-built **Email (Gmail clone)** and **Calendar** pages with event creation, task management, timezone-aware scheduling, notifications, and direct Gmail API integration. |
+| **Deployment & Hosting**       | Hosted on **Vercel** / Cloud services for high availability, scalability, and fast performance. |
 
 
 ### Statistics \& Impact
@@ -116,16 +105,16 @@ Reso.io is a state-of-the-art platform designed to deliver comprehensive profess
 
 ### Images
 
-![Add_event](/Reso/Add_event.png")
-![Analysis](/Reso/Analysis.png")
-![Calendar](/Reso/Calendar.png")
-![Cases](/Reso/Cases.png")
-![Contacts](/Reso/Contacts.png")
-![Home-page](/Reso/Home-page.png")
-![Innovation](/Reso/Innovation.png")
-![Landing-page](/Reso/Landing-page.png")
-![Live-ai-chat](/Reso/Live-ai-chat.png")
-![Login](/Reso/Login.png")
-![Payments](/Reso/Payments.png")
-![Portal](/Reso/Portal.png")
-![Profile](/Reso/Profile.png")
+![Add_event](/Reso/Add_event.png)
+![Analysis](/Reso/Analysis.png)
+![Calendar](/Reso/Calendar.png)
+![Cases](/Reso/Cases.png)
+![Contacts](/Reso/Contacts.png)
+![Home-page](/Reso/Home-page.png)
+![Innovation](/Reso/Innovation.png)
+![Landing-page](/Reso/Landing-page.png)
+![Live-ai-chat](/Reso/Live-ai-chat.png)
+![Login](/Reso/Login.png)
+![Payments](/Reso/Payments.png)
+![Portal](/Reso/Portal.png)
+![Profile](/Reso/Profile.png)
