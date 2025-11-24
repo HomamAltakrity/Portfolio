@@ -112,43 +112,26 @@ Codati.com is a premier digital card retail platform serving the UAE and Western
 
 Below is a comprehensive table of tools and technologies used across all projects:
 
-| Technology / Feature | Description |
-
+| Technology / Feature           | Description                                                                                   |
 |--------------------------------|-----------------------------------------------------------------------------------------------|
-
-| **Next.js** | Frontend framework for fast, interactive, SEO-friendly web interfaces used in Reso.io, Noju.io, DCB Checkout, and Codati.com. |
-
-| **React** | Core library for building responsive and dynamic UIs across all platforms. |
-
-| **Tailwind CSS** | Utility-first CSS framework used for modern, responsive, and mobile-first design. |
-
-| **Node.js** | Backend runtime for Reso.io and Noju.io to handle server-side logic and API endpoints. |
-
-| **Express.js** | Backend framework used in Reso.io and Noju.io for routing and API management. |
-
-| **Django** | Python backend framework powering DCB Checkout, handling subscriptions, APIs, and admin dashboards. |
-
-| **Odoo ERP** | Enterprise-grade backend for Codati.com managing vendors, payments, purchases, and employee tracking. |
-
-| **PostgreSQL** | Relational database used in DCB Checkout and Codati.com for storing users, subscriptions, and transactions. |
-
-| **MongoDB** | NoSQL database used in Reso.io and Noju.io for storing flexible document and user data. |
-
-| **Redis** | Caching and performance optimization for DCB Checkout and high-traffic queries. |
-
-| **OpenAI ChatGPT API** | AI-powered document analysis and summaries in Reso.io. |
-
-| **Gmail API** | Custom-built email integration in Reso.io for sending and receiving emails. |
-
-| **Stripe API** | Payment gateway integration for Reso.io and other platforms to handle secure transactions. |
-
-| **Direct Carrier Billing (DCB)** | Seamless mobile-based payment system in Noju.io and DCB Checkout. |
-
+| **Next.js**                     | Frontend framework for fast, interactive, SEO-friendly web interfaces used in Reso.io, Noju.io, DCB Checkout, and Codati.com. |
+| **React**                       | Core library for building responsive and dynamic UIs across all platforms. |
+| **Tailwind CSS**                 | Utility-first CSS framework used for modern, responsive, and mobile-first design. |
+| **Node.js**                      | Backend runtime for Reso.io and Noju.io to handle server-side logic and API endpoints. |
+| **Express.js**                   | Backend framework used in Reso.io and Noju.io for routing and API management. |
+| **Django**                       | Python backend framework powering DCB Checkout, handling subscriptions, APIs, and admin dashboards. |
+| **Odoo ERP**                     | Enterprise-grade backend for Codati.com managing vendors, payments, purchases, and employee tracking. |
+| **PostgreSQL**                   | Relational database used in DCB Checkout and Codati.com for storing users, subscriptions, and transactions. |
+| **MongoDB**                       | NoSQL database used in Reso.io and Noju.io for storing flexible document and user data. |
+| **Redis**                         | Caching and performance optimization for DCB Checkout and high-traffic queries. |
+| **OpenAI ChatGPT API**            | AI-powered document analysis and summaries in Reso.io. |
+| **Gmail API**                     | Custom-built email integration in Reso.io for sending and receiving emails. |
+| **Stripe API**                    | Payment gateway integration for Reso.io and other platforms to handle secure transactions. |
+| **Direct Carrier Billing (DCB)**  | Seamless mobile-based payment system in Noju.io and DCB Checkout. |
 | **Custom Calendars & Scheduling** | Fully built-from-scratch calendars and scheduling systems in Reso.io and Noju.io with timezone support and notifications. |
+| **Deployment / Hosting**          | Vercel / Cloud hosting for all projects, ensuring scalability, high availability, and fast performance. |
+| **Security**                      | Enterprise-grade authentication, encryption, and secure transaction processing across all platforms. |
 
-| **Deployment / Hosting** | Vercel / Cloud hosting for all projects, ensuring scalability, high availability, and fast performance. |
-
-| **Security** | Enterprise-grade authentication, encryption, and secure transaction processing across all platforms. |
 
 ## 📈 Stats & Achievements
 
