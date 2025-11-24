@@ -71,4 +71,4 @@ Trusted by over 100,000 active users, Codati.com combines modern web technologie
 ### Images
 
 Codati/Payment.png
-![This is an alt text.](/Codati/Payment.png "This is a sample image.")
+(/Codati/Payment.png "This is a sample image.")
