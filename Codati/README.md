@@ -1,118 +1,64 @@
-\# Codati.com
-
-
-
+Codati.com
 Codati.com is a premier platform for digital card retail, serving customers in the United Arab Emirates and Western markets. The platform provides a seamless and secure solution for purchasing digital cards and subscriptions while offering advanced tools for managing profiles, balances, payments, and vendor interactions. With its user-friendly interface and powerful backend, Codati.com delivers a complete digital retail experience.
-
-
 
 Trusted by over 100,000 active users, Codati.com combines modern web technologies with enterprise-grade systems for scalability, performance, and business management.
 
+Key Highlights
+Comprehensive Digital Card Retail: Purchase a wide range of digital cards and subscriptions instantly.
 
+Profile & Wallet Management: Users can track balances, view transaction history, and manage payments via a secure personal wallet.
 
-\### Key Highlights
+Automated Invoice Emailing: Receive detailed receipts automatically after every payment, enhancing transparency and convenience.
 
+24/7 Customer Support: Round-the-clock assistance for any inquiries or issues.
 
+Advanced Dashboard: Powered by Odoo ERP, administrators can manage payments, purchases, vendor transactions, and employee tracking efficiently.
 
-\* Comprehensive Digital Card Retail: Purchase a wide range of digital cards and subscriptions instantly.
+Seamless Global Reach: Designed for UAE customers while supporting operations in Western markets with multi-currency and localization features.
 
+Platform Features
+Digital Card & Subscription Purchases: Instantly access a wide variety of digital cards and subscriptions.
 
+Profile & Wallet Management: View balances, transaction history, and manage wallet payments securely.
 
-\* Profile \& Wallet Management: Users can track balances, view transaction history, and manage payments via a secure personal wallet.
+Invoice Emailing: Automated email receipts for every payment to keep records transparent and organized.
 
+24/7 Support: Always available support for customers to resolve any issues promptly.
 
+Advanced Dashboard: Enterprise-grade backend powered by Odoo ERP, managing vendors, payments, employees, and analytics.
 
-\* Automated Invoice Emailing: Receive detailed receipts automatically after every payment, enhancing transparency and convenience.
-
-
-
-\* 24/7 Customer Support: Round-the-clock assistance for any inquiries or issues.
-
-
-
-\* Advanced Dashboard: Powered by Odoo ERP, administrators can manage payments, purchases, vendor transactions, and employee tracking efficiently.
-
-
-
-\* Seamless Global Reach: Designed for UAE customers while supporting operations in Western markets with multi-currency and localization features.
-
-
-
-\### Platform Features
-
-
-
-\* Digital Card \& Subscription Purchases: Instantly access a wide variety of digital cards and subscriptions.
-
-
-
-\* Profile \& Wallet Management: View balances, transaction history, and manage wallet payments securely.
-
-
-
-\* Invoice Emailing: Automated email receipts for every payment to keep records transparent and organized.
-
-
-
-\* 24/7 Support: Always available support for customers to resolve any issues promptly.
-
-
-
-\* Advanced Dashboard: Enterprise-grade backend powered by Odoo ERP, managing vendors, payments, employees, and analytics.
-
-
-
-\### Technology Stack
-
-
-
-| Technology / Feature           | Description                                                                                   |
+Technology Stack
+| Technology / Feature | Description |
 
 |--------------------------------|-----------------------------------------------------------------------------------------------|
 
-| \*\*Frontend\*\*                   | Built with \*\*Next.js\*\* and \*\*React\*\* for a fast, interactive, and responsive user interface. |
+| Frontend | Built with Next.js and React for a fast, interactive, and responsive user interface. |
 
-| \*\*Backend\*\*                    | Powered by \*\*Odoo ERP\*\* using \*\*Python\*\*, providing advanced business management features and integrations. |
+| Backend | Powered by Odoo ERP using Python, providing advanced business management features and integrations. |
 
-| \*\*Database\*\*                   | Enterprise-grade relational database (\*\*Odoo built-in PostgreSQL\*\*) to manage transactions, users, and vendor data. |
+| Database | Enterprise-grade relational database (Odoo built-in PostgreSQL) to manage transactions, users, and vendor data. |
 
-| \*\*Wallet \& Payment System\*\*    | Secure wallet management and integration with payment gateways for seamless transactions. |
+| Wallet & Payment System | Secure wallet management and integration with payment gateways for seamless transactions. |
 
-| \*\*Invoice Automation\*\*         | Automated invoice generation and emailing for every transaction. |
+| Invoice Automation | Automated invoice generation and emailing for every transaction. |
 
-| \*\*Dashboard \& Analytics\*\*      | Advanced Odoo-powered dashboard for managing vendors, payments, purchases, and employee tracking. |
+| Dashboard & Analytics | Advanced Odoo-powered dashboard for managing vendors, payments, purchases, and employee tracking. |
 
-| \*\*Customer Support\*\*           | 24/7 support integrated with real-time chat and ticketing system. |
+| Customer Support | 24/7 support integrated with real-time chat and ticketing system. |
 
-| \*\*Deployment \& Hosting\*\*       | Hosted on \*\*Vercel / Cloud platforms\*\* with scalable architecture and high availability. |
+| Deployment & Hosting | Hosted on Vercel / Cloud platforms with scalable architecture and high availability. |
 
-| \*\*Security\*\*                   | Enterprise-grade authentication, data encryption, and secure transaction processing. |
+| Security | Enterprise-grade authentication, data encryption, and secure transaction processing. |
 
+Impact & User Experience
+Serving over 100,000 active users across UAE and Western markets.
 
+Hundreds of thousands of digital card and subscription purchases processed monthly.
 
-\### Impact \& User Experience
+Thousands of invoices generated automatically with full transaction transparency.
 
+Scalable platform capable of handling large vendor and employee operations via Odoo ERP.
 
+Round-the-clock support ensures high customer satisfaction and retention.
 
-1\. Serving over 100,000 active users across UAE and Western markets.
-
-
-
-2\. Hundreds of thousands of digital card and subscription purchases processed monthly.
-
-
-
-3\. Thousands of invoices generated automatically with full transaction transparency.
-
-
-
-4\. Scalable platform capable of handling large vendor and employee operations via Odoo ERP.
-
-
-
-5\. Round-the-clock support ensures high customer satisfaction and retention.
-
-
-
-\*\*Codati.com combines digital retail convenience, enterprise-grade management, and seamless payment solutions to deliver a complete digital card and subscription platform for modern users and businesses.\*\*
-
+Codati.com combines digital retail convenience, enterprise-grade management, and seamless payment solutions to deliver a complete digital card and subscription platform for modern users and businesses.
