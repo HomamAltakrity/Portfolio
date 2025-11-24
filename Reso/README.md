@@ -1,4 +1,4 @@
-\# Reso.io
+# Reso.io
 
 
 
@@ -6,67 +6,67 @@ Reso.io is a state-of-the-art platform designed to deliver comprehensive profess
 
 
 
-\### Key Highlights
+### Key Highlights
 
 
 
-\* Alternative Dispute Resolution, Simplified: Streamline your case management process with AI-driven tools.
+* Alternative Dispute Resolution, Simplified: Streamline your case management process with AI-driven tools.
 
 
 
-\* Transforming Case Management with AI: Utilize advanced AI, powered by OpenAI’s ChatGPT API, to analyze documents, summarize information, and provide actionable insights.
+* Transforming Case Management with AI: Utilize advanced AI, powered by OpenAI’s ChatGPT API, to analyze documents, summarize information, and provide actionable insights.
 
 
 
-\* Custom-Built Tools: Unlike off-the-shelf solutions, the Calendar Page and Email (Gmail clone) are built entirely from scratch, offering full functionalities like event creation, task management, timezone-aware meeting invitations, email sending/receiving, and notifications.
+* Custom-Built Tools: Unlike off-the-shelf solutions, the Calendar Page and Email (Gmail clone) are built entirely from scratch, offering full functionalities like event creation, task management, timezone-aware meeting invitations, email sending/receiving, and notifications.
 
 
 
-\* Tailored for Professionals: Designed with efficiency and usability in mind, Reso.io adapts to your workflow and team requirements.
+* Tailored for Professionals: Designed with efficiency and usability in mind, Reso.io adapts to your workflow and team requirements.
 
 
 
-\* Platform Features
+* Platform Features
 
 
 
-\* Login/Signup: Quick access via Google OAuth or a simple signup form.
+* Login/Signup: Quick access via Google OAuth or a simple signup form.
 
 
 
-\* Portal Page: A comprehensive dashboard displaying a mini calendar, tasks, and an overview of all your data.
+* Portal Page: A comprehensive dashboard displaying a mini calendar, tasks, and an overview of all your data.
 
 
 
-\* Cases Page: View, create, and manage cases efficiently, with detailed case pages for tracking progress.
+* Cases Page: View, create, and manage cases efficiently, with detailed case pages for tracking progress.
 
 
 
-\* Documents Page: Upload, organize, and manage documents. Open any document for AI-driven analysis, summaries, and queries using ChatGPT API. Includes a full-featured PDF editor.
+* Documents Page: Upload, organize, and manage documents. Open any document for AI-driven analysis, summaries, and queries using ChatGPT API. Includes a full-featured PDF editor.
 
 
 
-\* Document Analysis: AI-powered document analysis for faster insights and better decision-making.
+* Document Analysis: AI-powered document analysis for faster insights and better decision-making.
 
 
 
-\* Contacts Page: Manage all your contacts with easy creation and detailed contact views.
+* Contacts Page: Manage all your contacts with easy creation and detailed contact views.
 
 
 
-\* Payments Page: Handle secure payment processing with Stripe, select payment methods, and view historical payments.
+* Payments Page: Handle secure payment processing with Stripe, select payment methods, and view historical payments.
 
 
 
-\* Communication Page: Built from scratch using Gmail API integration to send, receive, and manage emails directly in the platform.
+* Communication Page: Built from scratch using Gmail API integration to send, receive, and manage emails directly in the platform.
 
 
 
-\* Calendar Page: A fully custom-built calendar similar to Google Calendar, including day/week/month views, event creation, task tracking, timezone adjustments, and email notifications.
+* Calendar Page: A fully custom-built calendar similar to Google Calendar, including day/week/month views, event creation, task tracking, timezone adjustments, and email notifications.
 
 
 
-\### Technology Stack
+### Technology Stack
 
 
 
@@ -92,25 +92,40 @@ Reso.io is a state-of-the-art platform designed to deliver comprehensive profess
 
 
 
-\### Statistics \& Impact
+### Statistics \& Impact
 
 
 
-1\. Serving over 100,000 active users nationwide
+1. Serving over 100,000 active users nationwide
 
 
 
-2\. Hundreds of thousands of documents analyzed using AI
+2. Hundreds of thousands of documents analyzed using AI
 
 
 
-3\. Thousands of cases managed efficiently every month
+3. Thousands of cases managed efficiently every month
 
 
 
-4\. Platform continues to scale with advanced AI, custom-built features, and user-focused design
+4. Platform continues to scale with advanced AI, custom-built features, and user-focused design
 
 
 
-\*\*Reso.io is more than a platform—it’s a complete professional toolkit designed to maximize productivity, simplify workflows, and empower teams to achieve success.\*\*
+**Reso.io is more than a platform—it’s a complete professional toolkit designed to maximize productivity, simplify workflows, and empower teams to achieve success.**
 
+### Images
+
+![Add_event](/Reso/Add_event.png")
+![Analysis](/Reso/Analysis.png")
+![Calendar](/Reso/Calendar.png")
+![Cases](/Reso/Cases.png")
+![Contacts](/Reso/Contacts.png")
+![Home-page](/Reso/Home-page.png")
+![Innovation](/Reso/Innovation.png")
+![Landing-page](/Reso/Landing-page.png")
+![Live-ai-chat](/Reso/Live-ai-chat.png")
+![Login](/Reso/Login.png")
+![Payments](/Reso/Payments.png")
+![Portal](/Reso/Portal.png")
+![Profile](/Reso/Profile.png")
