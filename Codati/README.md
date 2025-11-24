@@ -67,3 +67,8 @@ Trusted by over 100,000 active users, Codati.com combines modern web technologie
 5. Round-the-clock support ensures high customer satisfaction and retention.
 
 **Codati.com combines digital retail convenience, enterprise-grade management, and seamless payment solutions to deliver a complete digital card and subscription platform for modern users and businesses.**
+
+### Images
+
+Codati/Payment.png
+![This is an alt text.](/Codati/Payment.png "This is a sample image.")
