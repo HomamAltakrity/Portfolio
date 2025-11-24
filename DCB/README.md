@@ -32,29 +32,18 @@ Trusted by over 100,000 active users, DCB Checkout integrates advanced technolog
 
 ### Technology Stack
 
-| Technology / Feature | Description |
-
+| Technology / Feature           | Description                                                                                   |
 |--------------------------------|-----------------------------------------------------------------------------------------------|
-
-| **Frontend** | Built with **Next.js** and **React** for fast, interactive user interfaces. Uses **Tailwind CSS** for responsive, modern, and mobile-first design. |
-
-| **Backend** | **Django** powers the backend, handling subscription management, API endpoints, and business logic. |
-
-| **Database** | **PostgreSQL** stores all user, subscription, and transaction data securely. |
-
-| **Caching & Performance** | **Redis** is used for caching frequent queries, session management, and improving response times. |
-
-| **Mobile Payments (DCB)** | Fully integrated **Direct Carrier Billing**, enabling users to pay via their mobile numbers without credit cards. |
-
-| **Dynamic UI & Modals** | Custom-built responsive UI and dynamic modals tailored to each service offering. |
-
-| **Support & Notifications** | Pop-up modals and notifications for quick user support and engagement. |
-
+| **Frontend**                   | Built with **Next.js** and **React** for fast, interactive user interfaces. Uses **Tailwind CSS** for responsive, modern, and mobile-first design. |
+| **Backend**                    | **Django** powers the backend, handling subscription management, API endpoints, and business logic. |
+| **Database**                   | **PostgreSQL** stores all user, subscription, and transaction data securely. |
+| **Caching & Performance**      | **Redis** is used for caching frequent queries, session management, and improving response times. |
+| **Mobile Payments (DCB)**      | Fully integrated **Direct Carrier Billing**, enabling users to pay via their mobile numbers without credit cards. |
+| **Dynamic UI & Modals**        | Custom-built responsive UI and dynamic modals tailored to each service offering. |
+| **Support & Notifications**    | Pop-up modals and notifications for quick user support and engagement. |
 | **Analytics & Admin Dashboard**| Django-powered dashboard with full subscription, user, and revenue analytics. |
-
-| **Deployment & Hosting** | Hosted on **Vercel** / Cloud platforms with high availability, scalable architecture, and monitoring. |
-
-| **Security** | Enterprise-grade authentication, secure payment processing, and data encryption throughout the platform. |
+| **Deployment & Hosting**       | Hosted on **Vercel** / Cloud platforms with high availability, scalable architecture, and monitoring. |
+| **Security**                   | Enterprise-grade authentication, secure payment processing, and data encryption throughout the platform. |
 
 ### Impact & User Experience
 
@@ -72,11 +61,11 @@ Trusted by over 100,000 active users, DCB Checkout integrates advanced technolog
 
 ### Images
 
-![This is an alt text.](/DCB/Home.png)
-![This is an alt text.](/DCB/Offerings.png)
-![This is an alt text.](/DCB/Our-story.png)
-![This is an alt text.](/DCB/Support.png)
-![This is an alt text.](/DCB/etheria-1.png)
-![This is an alt text.](/DCB/etheria-2.png)
-![This is an alt text.](/DCB/nord-1.png)
-![This is an alt text.](/DCB/nord-2.png)
+![Home](/DCB/Home.png)
+![Offerings](/DCB/Offerings.png)
+![Our-story](/DCB/Our-story.png)
+![Support](/DCB/Support.png)
+![etheria-1](/DCB/etheria-1.png)
+![etheria-2](/DCB/etheria-2.png)
+![nord-1](/DCB/nord-1.png)
+![nord-2](/DCB/nord-2.png)
