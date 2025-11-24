@@ -165,13 +165,13 @@ Below is a comprehensive table of tools and technologies used across all project
 
 > README.md
 
->> /reso.io
+>> Reso
 
->> /noju.io
+>> Noju
 
->> dcb-checkout
+>> Dcb-checkout
 
->> codati.com
+>> Codati
 
 
 ## 📜 License
