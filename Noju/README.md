@@ -28,22 +28,14 @@ Noju.io is a modern, visually engaging company website designed to present servi
 
 ### Technology Stack
 
-| Technology / Feature | Description |
-
+| Technology / Feature    | Description                                                                                   |
 |-------------------------|-----------------------------------------------------------------------------------------------|
-
-| **Frontend** | Built with **Next.js** and **React** for fast, interactive user interfaces. Uses **Tailwind CSS** for responsive and modern styling. |
-
-| **Particle System** | Custom-built particle animation engine for a dynamic and visually engaging user experience. |
-
-| **Scheduling System** | Fully integrated call scheduling system, allowing users to book appointments directly with the marketing team. |
-
-| **Backend** | **Node.js** and **Express.js** handle server-side logic, API requests, and data management. |
-
-| **Database** | **MongoDB** stores booking, service, and content data securely and efficiently. |
-
-| **Payments** | Direct Carrier Billing integrated for seamless payment processing. |
-
+| **Frontend**            | Built with **Next.js** and **React** for fast, interactive user interfaces. Uses **Tailwind CSS** for responsive and modern styling. |
+| **Particle System**     | Custom-built particle animation engine for a dynamic and visually engaging user experience.  |
+| **Scheduling System**   | Fully integrated call scheduling system, allowing users to book appointments directly with the marketing team. |
+| **Backend**             | **Node.js** and **Express.js** handle server-side logic, API requests, and data management. |
+| **Database**            | **MongoDB** stores booking, service, and content data securely and efficiently. |
+| **Payments**            | Direct Carrier Billing integrated for seamless payment processing. |
 | **Deployment & Hosting**| Hosted on **Vercel** / Cloud platforms for high availability, performance, and scalability. |
 
 ### Impact & User Experience
